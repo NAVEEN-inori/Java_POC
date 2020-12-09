@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/POJO/Rule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/POJO/RuleSet2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/POJO/SizeMismatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/POJO/Template.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/Test/JsonCompare/Employee.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/Test/JsonCompare/Testing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/com/paypal/GetJsonFromConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/com/paypal/JsonComparision.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/com/paypal/MetadataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/com/paypal/NamesMismatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/com/paypal/Sample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/java/com/paypal/SizeMismatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/ChallengerChampion_RuleSet_Prod.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/WTransaction_Wuser_RuleSet.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_dq_ods_account.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_dq_ods_party.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_execution_payment_message_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_networks_authorizations_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_networks_charges_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_networks_disburse_funds_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_networks_disbursements_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_networks_release_funds_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_networks_reserve_funds_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v1_payment_networks_transfers_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_execution_transfers_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_networks_authorizations_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_networks_authorizations_id_capture_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_networks_charges_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_networks_charges_id_complete_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_networks_release_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_networks_transfers_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_ihub_rawsink_switch_v2_payment_networks_transfers_id_reverse_dq.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_pricing_calculateprice_recon.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_pricing_exchangecurrency_recon.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/dry-run-metadata/pp_pricing_recalculateprice_recon.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/main/resources/pp_dq_ods_account_Test.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/test/java/Test/JsonCompare/TestingTest.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/JsonToJsonComparision/src/test/java/com/paypal/JsonComparisionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/main/java/com/paypal/common/RuleParams.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/main/java/com/paypal/executors/HiveJDBCQueryExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/main/java/com/paypal/rule/CreateTableRuleValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/main/java/com/paypal/rule/SingleValueThresholdValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/main/java/com/paypal/service/RuleExecutor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/main/java/com/paypal/util/PropertyFileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/main/resources/config/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/batch-enterprise-data-quality-executor/src/test/resources/app_conf.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/.idea/workspace.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/app/MetadataAutomateApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/app/MetadataAutomationV2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/common/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/dataprocessor/JsonUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/dataprocessor/ProcessWrapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/exceldata/ExcelReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/exceldata/ExcelReaderDQTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/exceldata/ExcelUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/postutil/KeyMakerUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/postutil/PopulateMetadata.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/postutil/PropertyFileUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/java/com/paypal/postutil/test.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/resources/drools/txnfulfillmentserv/Capture/capture.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Naveen/metadata-automation/excelReader/src/main/resources/drools/txnfulfillmentserv/Capture/capture_commonfunc.drl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Rahul/batch-enterprise-data-quality-executor/src/main/java/com/paypal/common/DQConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Rahul/batch-enterprise-data-quality-executor/src/main/java/com/paypal/rule/TwoDataStoresRecordsMatchingValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/DQ/Team/Rahul/batch-enterprise-data-quality-executor/src/main/java/com/paypal/util/RuleUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Interface/A6.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Interface/Printable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Interface/Sample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Interface/Show.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Interface/Showabl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Interface/Showable.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Properties.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Property.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Demo1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Demo2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/FileSortExample1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/FileSortExample2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Sample.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Simple.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Test1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/practice/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/FulfillAuth/Apple/Sample.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/FulfillAuth/Apple/demo.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/FulfillAuth/Demo.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/FulfillAuth/Ice-Cream/Demo.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/FulfillAuth/txnpayments/Demo.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/Sample.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/sample.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/dq-template/template/sample.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Naveen1/Practice/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Naveen1/Practice/src/main/java/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
